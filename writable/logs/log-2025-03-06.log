@@ -1,0 +1,258 @@
+CRITICAL - 2025-03-06 07:05:19 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "template2/header.php"
+[Method: GET, Route: template2]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template2/header.php')
+ 2 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('template2/header', [], true)
+ 3 APPPATH\Controllers\Home3.php(10): view('template2/header')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home3->index()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home3))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-03-06 07:13:21 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "template2/header.php"
+[Method: GET, Route: template2]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template2/header.php')
+ 2 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('template2/header', [], true)
+ 3 APPPATH\Controllers\Home3.php(10): view('template2/header')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home3->index()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home3))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-03-06 07:13:26 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "template2/header.php"
+[Method: GET, Route: template2]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template2/header.php')
+ 2 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('template2/header', [], true)
+ 3 APPPATH\Controllers\Home3.php(10): view('template2/header')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home3->index()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home3))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-03-06 07:13:34 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "template2/header.php"
+[Method: GET, Route: template2]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template2/header.php')
+ 2 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('template2/header', [], true)
+ 3 APPPATH\Controllers\Home3.php(10): view('template2/header')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home3->index()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home3))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-03-06 07:13:38 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "template2/header.php"
+[Method: GET, Route: template2]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template2/header.php')
+ 2 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('template2/header', [], true)
+ 3 APPPATH\Controllers\Home3.php(10): view('template2/header')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home3->index()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home3))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-03-06 07:16:24 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "template2/header.php"
+[Method: GET, Route: template2]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template2/header.php')
+ 2 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('template2/header', [], true)
+ 3 APPPATH\Controllers\Home3.php(10): view('template2/header')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home3->index()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home3))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-03-06 08:22:24 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "template2/index.php"
+[Method: GET, Route: data]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template2/index.php')
+ 2 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('template2/index', [], true)
+ 3 APPPATH\Controllers\Home3.php(22): view('template2/index', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home3->dataproduk()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home3))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-03-06 08:42:11 --> ErrorException: Undefined variable $namaproduk1
+[Method: GET, Route: template2]
+in APPPATH\Views\template2\content1.php on line 121.
+ 1 APPPATH\Views\template2\content1.php(121): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $namaproduk1', 'C:\\xampp1\\htdocs\\ci4\\app\\Views\\template2\\content1.php', 121)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp1\\htdocs\\ci4\\app\\Views\\template2\\content1.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('template2/content1', [], true)
+ 5 APPPATH\Controllers\Home3.php(11): view('template2/content1')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home3->index()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home3))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-03-06 08:42:13 --> ErrorException: Undefined variable $namaproduk1
+[Method: GET, Route: template2]
+in APPPATH\Views\template2\content1.php on line 121.
+ 1 APPPATH\Views\template2\content1.php(121): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $namaproduk1', 'C:\\xampp1\\htdocs\\ci4\\app\\Views\\template2\\content1.php', 121)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp1\\htdocs\\ci4\\app\\Views\\template2\\content1.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('template2/content1', [], true)
+ 5 APPPATH\Controllers\Home3.php(11): view('template2/content1')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home3->index()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home3))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-03-06 08:45:52 --> ErrorException: Undefined variable $namaproduk1
+[Method: GET, Route: template2]
+in APPPATH\Views\template2\content1.php on line 121.
+ 1 APPPATH\Views\template2\content1.php(121): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $namaproduk1', 'C:\\xampp1\\htdocs\\ci4\\app\\Views\\template2\\content1.php', 121)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp1\\htdocs\\ci4\\app\\Views\\template2\\content1.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('template2/content1', [], true)
+ 5 APPPATH\Controllers\Home3.php(11): view('template2/content1')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home3->index()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home3))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-03-06 08:55:10 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "template2/dataproduk.php"
+[Method: GET, Route: template2]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template2/dataproduk.php')
+ 2 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('template2/dataproduk', [], true)
+ 3 APPPATH\Controllers\Home3.php(16): view('template2/dataproduk', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home3->index()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home3))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-03-06 08:55:18 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "template2/dataproduk.php"
+[Method: GET, Route: template2]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template2/dataproduk.php')
+ 2 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('template2/dataproduk', [], true)
+ 3 APPPATH\Controllers\Home3.php(16): view('template2/dataproduk', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home3->index()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home3))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-03-06 09:02:24 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "template2/dataproduduk.php"
+[Method: GET, Route: template2]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template2/dataproduduk.php')
+ 2 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('template2/dataproduduk', [], true)
+ 3 APPPATH\Controllers\Home3.php(16): view('template2/dataproduduk', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home3->index()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home3))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-03-06 15:24:54 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "template2/dataproduk.php"
+[Method: GET, Route: data]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template2/dataproduk.php')
+ 2 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('template2/dataproduk', [], true)
+ 3 APPPATH\Controllers\Home3.php(22): view('template2/dataproduk')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home3->dataproduk()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home3))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-03-06 15:31:45 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "template2/dataproduk.php"
+[Method: GET, Route: data]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template2/dataproduk.php')
+ 2 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('template2/dataproduk', [], true)
+ 3 APPPATH\Controllers\Home3.php(22): view('template2/dataproduk')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home3->dataproduk()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home3))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-03-06 15:32:06 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "template2/dataproduk.php"
+[Method: GET, Route: data]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template2/dataproduk.php')
+ 2 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('template2/dataproduk', [], true)
+ 3 APPPATH\Controllers\Home3.php(22): view('template2/dataproduk')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home3->dataproduk()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home3))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-03-06 15:33:16 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "template2/dataproduk.php"
+[Method: GET, Route: data]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template2/dataproduk.php')
+ 2 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('template2/dataproduk', [], true)
+ 3 APPPATH\Controllers\Home3.php(21): view('template2/dataproduk')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home3->dataproduk()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home3))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-03-06 15:33:18 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "template2/dataproduk.php"
+[Method: GET, Route: data]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template2/dataproduk.php')
+ 2 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('template2/dataproduk', [], true)
+ 3 APPPATH\Controllers\Home3.php(21): view('template2/dataproduk')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home3->dataproduk()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home3))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-03-06 15:33:19 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "template2/dataproduk.php"
+[Method: GET, Route: data]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template2/dataproduk.php')
+ 2 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('template2/dataproduk', [], true)
+ 3 APPPATH\Controllers\Home3.php(21): view('template2/dataproduk')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home3->dataproduk()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home3))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-03-06 15:33:19 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "template2/dataproduk.php"
+[Method: GET, Route: data]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template2/dataproduk.php')
+ 2 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('template2/dataproduk', [], true)
+ 3 APPPATH\Controllers\Home3.php(21): view('template2/dataproduk')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home3->dataproduk()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home3))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-03-06 15:37:14 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "template2/dataproduk.php"
+[Method: GET, Route: data]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template2/dataproduk.php')
+ 2 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('template2/dataproduk', [], true)
+ 3 APPPATH\Controllers\Home3.php(21): view('template2/dataproduk')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home3->dataproduk()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home3))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))

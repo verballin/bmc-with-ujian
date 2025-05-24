@@ -1,0 +1,68 @@
+CRITICAL - 2025-03-13 08:06:26 --> Error: Call to undefined method CodeIgniter\View\View::extends()
+[Method: GET, Route: admin]
+in APPPATH\Views\templateadmin\v_content.php on line 2.
+ 1 SYSTEMPATH\View\View.php(224): include()
+ 2 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('templateadmin/v_content', [], true)
+ 4 APPPATH\Controllers\Admin.php(9): view('templateadmin/v_content')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Admin->index()
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-03-13 08:07:19 --> Error: Call to undefined method CodeIgniter\View\View::extends()
+[Method: GET, Route: admin]
+in APPPATH\Views\templateadmin\v_content.php on line 2.
+ 1 SYSTEMPATH\View\View.php(224): include()
+ 2 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('templateadmin/v_content', [], true)
+ 4 APPPATH\Controllers\Admin.php(9): view('templateadmin/v_content')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Admin->index()
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-03-13 08:44:33 --> ErrorException: Undefined variable $nim
+[Method: GET, Route: admin/inputbiodata]
+in APPPATH\Views\v_biodata.php on line 46.
+ 1 APPPATH\Views\v_biodata.php(46): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $nim', 'C:\\xampp1\\htdocs\\ci4\\app\\Views\\v_biodata.php', 46)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp1\\htdocs\\ci4\\app\\Views\\v_biodata.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('v_biodata', [], true)
+ 5 APPPATH\Controllers\Admin.php(13): view('v_biodata')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Admin->inputbiodata()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-03-13 08:51:17 --> ErrorException: Undefined variable $nim
+[Method: GET, Route: admin/inputbiodata]
+in APPPATH\Views\v_biodata.php on line 46.
+ 1 APPPATH\Views\v_biodata.php(46): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $nim', 'C:\\xampp1\\htdocs\\ci4\\app\\Views\\v_biodata.php', 46)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp1\\htdocs\\ci4\\app\\Views\\v_biodata.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('v_biodata', [], true)
+ 5 APPPATH\Controllers\Admin.php(13): view('v_biodata')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Admin->inputbiodata()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-03-13 08:53:42 --> ErrorException: Undefined variable $nim
+[Method: GET, Route: admin/inputbiodata]
+in APPPATH\Views\v_biodata.php on line 46.
+ 1 APPPATH\Views\v_biodata.php(46): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $nim', 'C:\\xampp1\\htdocs\\ci4\\app\\Views\\v_biodata.php', 46)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp1\\htdocs\\ci4\\app\\Views\\v_biodata.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('v_biodata', [], true)
+ 5 APPPATH\Controllers\Admin.php(13): view('v_biodata')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Admin->inputbiodata()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))

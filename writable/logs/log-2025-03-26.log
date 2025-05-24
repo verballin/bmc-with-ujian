@@ -1,0 +1,240 @@
+CRITICAL - 2025-03-26 00:27:18 --> ErrorException: Undefined property: CodeIgniter\View\View::$session
+[Method: GET, Route: uts]
+in APPPATH\Views\TemplateUTS\templateUts.php on line 179.
+ 1 APPPATH\Views\TemplateUTS\templateUts.php(179): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\View\\View::$session', 'C:\\xampp1\\htdocs\\ci4\\app\\Views\\TemplateUTS\\templateUts.php', 179)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp1\\htdocs\\ci4\\app\\Views\\TemplateUTS\\templateUts.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(240): CodeIgniter\View\View->render('TemplateUts/templateUts', [], true)
+ 5 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('templateUts/v_konten', [], true)
+ 6 APPPATH\Controllers\Uts.php(9): view('templateUts/v_konten')
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Uts->index()
+ 8 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Uts))
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-03-26 00:53:33 --> ErrorException: Undefined property: CodeIgniter\View\View::$session
+[Method: GET, Route: uts]
+in APPPATH\Views\TemplateUTS\templateUts.php on line 179.
+ 1 APPPATH\Views\TemplateUTS\templateUts.php(179): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\View\\View::$session', 'C:\\xampp1\\htdocs\\ci4\\app\\Views\\TemplateUTS\\templateUts.php', 179)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp1\\htdocs\\ci4\\app\\Views\\TemplateUTS\\templateUts.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(240): CodeIgniter\View\View->render('TemplateUts/templateUts', [], true)
+ 5 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('templateUts/v_konten', [], true)
+ 6 APPPATH\Controllers\Uts.php(9): view('templateUts/v_konten')
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Uts->index()
+ 8 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Uts))
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-03-26 01:02:50 --> ErrorException: Undefined property: CodeIgniter\View\View::$session
+[Method: GET, Route: uts]
+in APPPATH\Views\TemplateUTS\templateUts.php on line 179.
+ 1 APPPATH\Views\TemplateUTS\templateUts.php(179): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\View\\View::$session', 'C:\\xampp1\\htdocs\\ci4\\app\\Views\\TemplateUTS\\templateUts.php', 179)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp1\\htdocs\\ci4\\app\\Views\\TemplateUTS\\templateUts.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(240): CodeIgniter\View\View->render('TemplateUts/templateUts', [], true)
+ 5 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('templateUts/v_konten', [], true)
+ 6 APPPATH\Controllers\Uts.php(9): view('templateUts/v_konten')
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Uts->index()
+ 8 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Uts))
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-03-26 01:07:50 --> ErrorException: Undefined property: CodeIgniter\View\View::$session
+[Method: GET, Route: uts]
+in APPPATH\Views\TemplateUTS\templateUts.php on line 179.
+ 1 APPPATH\Views\TemplateUTS\templateUts.php(179): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\View\\View::$session', 'C:\\xampp1\\htdocs\\ci4\\app\\Views\\TemplateUTS\\templateUts.php', 179)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp1\\htdocs\\ci4\\app\\Views\\TemplateUTS\\templateUts.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(240): CodeIgniter\View\View->render('TemplateUts/templateUts', [], true)
+ 5 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('templateUts/v_konten', [], true)
+ 6 APPPATH\Controllers\Uts.php(9): view('templateUts/v_konten')
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Uts->index()
+ 8 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Uts))
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-03-26 01:07:56 --> ErrorException: Undefined property: CodeIgniter\View\View::$session
+[Method: GET, Route: uts]
+in APPPATH\Views\TemplateUTS\templateUts.php on line 179.
+ 1 APPPATH\Views\TemplateUTS\templateUts.php(179): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\View\\View::$session', 'C:\\xampp1\\htdocs\\ci4\\app\\Views\\TemplateUTS\\templateUts.php', 179)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp1\\htdocs\\ci4\\app\\Views\\TemplateUTS\\templateUts.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(240): CodeIgniter\View\View->render('TemplateUts/templateUts', [], true)
+ 5 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('templateUts/v_konten', [], true)
+ 6 APPPATH\Controllers\Uts.php(9): view('templateUts/v_konten')
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Uts->index()
+ 8 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Uts))
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-03-26 01:14:35 --> ErrorException: Undefined property: CodeIgniter\View\View::$session
+[Method: GET, Route: uts]
+in APPPATH\Views\TemplateUTS\templateUts.php on line 179.
+ 1 APPPATH\Views\TemplateUTS\templateUts.php(179): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\View\\View::$session', 'C:\\xampp1\\htdocs\\ci4\\app\\Views\\TemplateUTS\\templateUts.php', 179)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp1\\htdocs\\ci4\\app\\Views\\TemplateUTS\\templateUts.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(240): CodeIgniter\View\View->render('TemplateUTS/templateUts', [], true)
+ 5 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('TemplateUTS/v_konten', [], true)
+ 6 APPPATH\Controllers\Uts.php(9): view('TemplateUTS/v_konten')
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Uts->index()
+ 8 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Uts))
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-03-26 01:27:16 --> ErrorException: Undefined property: CodeIgniter\View\View::$session
+[Method: GET, Route: uts]
+in APPPATH\Views\TemplateUTS\templateUts.php on line 179.
+ 1 APPPATH\Views\TemplateUTS\templateUts.php(179): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\View\\View::$session', 'C:\\xampp1\\htdocs\\ci4\\app\\Views\\TemplateUTS\\templateUts.php', 179)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp1\\htdocs\\ci4\\app\\Views\\TemplateUTS\\templateUts.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(240): CodeIgniter\View\View->render('TemplateUTS/templateUts', [], true)
+ 5 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('TemplateUTS/v_konten', [], true)
+ 6 APPPATH\Controllers\Uts.php(9): view('TemplateUTS/v_konten')
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Uts->index()
+ 8 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Uts))
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-03-26 01:48:19 --> ErrorException: Undefined property: CodeIgniter\View\View::$session
+[Method: GET, Route: uts]
+in APPPATH\Views\TemplateUTS\templateUts.php on line 179.
+ 1 APPPATH\Views\TemplateUTS\templateUts.php(179): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\View\\View::$session', 'C:\\xampp1\\htdocs\\ci4\\app\\Views\\TemplateUTS\\templateUts.php', 179)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp1\\htdocs\\ci4\\app\\Views\\TemplateUTS\\templateUts.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(240): CodeIgniter\View\View->render('TemplateUTS/templateUts', [], true)
+ 5 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('TemplateUTS/v_konten', [], true)
+ 6 APPPATH\Controllers\Uts.php(9): view('TemplateUTS/v_konten')
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Uts->index()
+ 8 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Uts))
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-03-26 01:48:23 --> ErrorException: Undefined property: CodeIgniter\View\View::$session
+[Method: GET, Route: uts]
+in APPPATH\Views\TemplateUTS\templateUts.php on line 179.
+ 1 APPPATH\Views\TemplateUTS\templateUts.php(179): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\View\\View::$session', 'C:\\xampp1\\htdocs\\ci4\\app\\Views\\TemplateUTS\\templateUts.php', 179)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp1\\htdocs\\ci4\\app\\Views\\TemplateUTS\\templateUts.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(240): CodeIgniter\View\View->render('TemplateUTS/templateUts', [], true)
+ 5 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('TemplateUTS/v_konten', [], true)
+ 6 APPPATH\Controllers\Uts.php(9): view('TemplateUTS/v_konten')
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Uts->index()
+ 8 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Uts))
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-03-26 01:56:25 --> ErrorException: Undefined property: CodeIgniter\View\View::$session
+[Method: GET, Route: uts]
+in APPPATH\Views\TemplateUTS\templateUts.php on line 179.
+ 1 APPPATH\Views\TemplateUTS\templateUts.php(179): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\View\\View::$session', 'C:\\xampp1\\htdocs\\ci4\\app\\Views\\TemplateUTS\\templateUts.php', 179)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp1\\htdocs\\ci4\\app\\Views\\TemplateUTS\\templateUts.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(240): CodeIgniter\View\View->render('TemplateUTS/templateUts', [], true)
+ 5 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('TemplateUTS/v_konten', [], true)
+ 6 APPPATH\Controllers\Uts.php(9): view('TemplateUTS/v_konten')
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Uts->index()
+ 8 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Uts))
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-03-26 01:58:56 --> ErrorException: Undefined property: CodeIgniter\View\View::$session
+[Method: GET, Route: uts]
+in APPPATH\Views\TemplateUTS\templateUts.php on line 186.
+ 1 APPPATH\Views\TemplateUTS\templateUts.php(186): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\View\\View::$session', 'C:\\xampp1\\htdocs\\ci4\\app\\Views\\TemplateUTS\\templateUts.php', 186)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp1\\htdocs\\ci4\\app\\Views\\TemplateUTS\\templateUts.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(240): CodeIgniter\View\View->render('TemplateUTS/templateUts', [], true)
+ 5 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('TemplateUTS/v_konten', [], true)
+ 6 APPPATH\Controllers\Uts.php(9): view('TemplateUTS/v_konten')
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Uts->index()
+ 8 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Uts))
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-03-26 01:59:32 --> ErrorException: Undefined property: CodeIgniter\View\View::$session
+[Method: GET, Route: uts]
+in APPPATH\Views\TemplateUTS\templateUts.php on line 179.
+ 1 APPPATH\Views\TemplateUTS\templateUts.php(179): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\View\\View::$session', 'C:\\xampp1\\htdocs\\ci4\\app\\Views\\TemplateUTS\\templateUts.php', 179)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp1\\htdocs\\ci4\\app\\Views\\TemplateUTS\\templateUts.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(240): CodeIgniter\View\View->render('TemplateUTS/templateUts', [], true)
+ 5 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('TemplateUTS/v_konten', [], true)
+ 6 APPPATH\Controllers\Uts.php(9): view('TemplateUTS/v_konten')
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Uts->index()
+ 8 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Uts))
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-03-26 01:59:34 --> ErrorException: Undefined property: CodeIgniter\View\View::$session
+[Method: GET, Route: uts]
+in APPPATH\Views\TemplateUTS\templateUts.php on line 179.
+ 1 APPPATH\Views\TemplateUTS\templateUts.php(179): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\View\\View::$session', 'C:\\xampp1\\htdocs\\ci4\\app\\Views\\TemplateUTS\\templateUts.php', 179)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp1\\htdocs\\ci4\\app\\Views\\TemplateUTS\\templateUts.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(240): CodeIgniter\View\View->render('TemplateUTS/templateUts', [], true)
+ 5 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('TemplateUTS/v_konten', [], true)
+ 6 APPPATH\Controllers\Uts.php(9): view('TemplateUTS/v_konten')
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Uts->index()
+ 8 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Uts))
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-03-26 02:00:05 --> ErrorException: Undefined property: CodeIgniter\View\View::$session
+[Method: GET, Route: uts]
+in APPPATH\Views\TemplateUTS\templateUts.php on line 179.
+ 1 APPPATH\Views\TemplateUTS\templateUts.php(179): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\View\\View::$session', 'C:\\xampp1\\htdocs\\ci4\\app\\Views\\TemplateUTS\\templateUts.php', 179)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp1\\htdocs\\ci4\\app\\Views\\TemplateUTS\\templateUts.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(240): CodeIgniter\View\View->render('TemplateUTS/templateUts', [], true)
+ 5 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('TemplateUTS/v_konten', [], true)
+ 6 APPPATH\Controllers\Uts.php(9): view('TemplateUTS/v_konten')
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Uts->index()
+ 8 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Uts))
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-03-26 02:39:22 --> ErrorException: Undefined property: CodeIgniter\View\View::$session
+[Method: GET, Route: uts]
+in APPPATH\Views\TemplateUTS\templateUts.php on line 173.
+ 1 APPPATH\Views\TemplateUTS\templateUts.php(173): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\View\\View::$session', 'C:\\xampp1\\htdocs\\ci4\\app\\Views\\TemplateUTS\\templateUts.php', 173)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp1\\htdocs\\ci4\\app\\Views\\TemplateUTS\\templateUts.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(240): CodeIgniter\View\View->render('TemplateUTS/templateUts', [], true)
+ 5 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('TemplateUTS/v_konten', [], true)
+ 6 APPPATH\Controllers\Uts.php(9): view('TemplateUTS/v_konten')
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Uts->index()
+ 8 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Uts))
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-03-26 02:50:28 --> ErrorException: Undefined property: CodeIgniter\View\View::$session
+[Method: GET, Route: uts]
+in APPPATH\Views\TemplateUTS\templateUts.php on line 174.
+ 1 APPPATH\Views\TemplateUTS\templateUts.php(174): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\View\\View::$session', 'C:\\xampp1\\htdocs\\ci4\\app\\Views\\TemplateUTS\\templateUts.php', 174)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp1\\htdocs\\ci4\\app\\Views\\TemplateUTS\\templateUts.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(240): CodeIgniter\View\View->render('TemplateUTS/templateUts', [], true)
+ 5 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('TemplateUTS/v_konten', [], true)
+ 6 APPPATH\Controllers\Uts.php(9): view('TemplateUTS/v_konten')
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Uts->index()
+ 8 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Uts))
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))

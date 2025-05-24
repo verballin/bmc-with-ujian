@@ -1,0 +1,80 @@
+CRITICAL - 2025-02-20 07:14:57 --> ErrorException: Array to string conversion
+[Method: GET, Route: databarang]
+in APPPATH\Controllers\latihan.php on line 17.
+ 1 APPPATH\Controllers\latihan.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp1\\htdocs\\ci4\\app\\Controllers\\latihan.php', 17)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\latihan->data()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\latihan))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-20 07:17:30 --> ErrorException: Array to string conversion
+[Method: GET, Route: databarang]
+in APPPATH\Controllers\latihan.php on line 17.
+ 1 APPPATH\Controllers\latihan.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp1\\htdocs\\ci4\\app\\Controllers\\latihan.php', 17)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\latihan->data()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\latihan))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-20 07:17:31 --> ErrorException: Array to string conversion
+[Method: GET, Route: databarang]
+in APPPATH\Controllers\latihan.php on line 17.
+ 1 APPPATH\Controllers\latihan.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp1\\htdocs\\ci4\\app\\Controllers\\latihan.php', 17)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\latihan->data()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\latihan))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-20 07:17:32 --> ErrorException: Array to string conversion
+[Method: GET, Route: databarang]
+in APPPATH\Controllers\latihan.php on line 17.
+ 1 APPPATH\Controllers\latihan.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp1\\htdocs\\ci4\\app\\Controllers\\latihan.php', 17)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\latihan->data()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\latihan))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-20 07:32:23 --> ErrorException: Undefined variable $kodeproduk
+[Method: GET, Route: databarang2]
+in APPPATH\Views\latihanview.php on line 11.
+ 1 APPPATH\Views\latihanview.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $kodeproduk', 'C:\\xampp1\\htdocs\\ci4\\app\\Views\\latihanview.php', 11)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp1\\htdocs\\ci4\\app\\Views\\latihanview.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('latihanview', [], true)
+ 5 APPPATH\Controllers\Latihan.php(32): view('latihanview', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Latihan->datakedua()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Latihan))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-20 08:17:59 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "latihanview2.php"
+[Method: GET, Route: databarang3/12/moisturizer/5000/50]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('latihanview2.php')
+ 2 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('latihanview2', [], true)
+ 3 APPPATH\Controllers\Latihan.php(44): view('latihanview2', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Latihan->dataketiga('12', 'moisturizer', '5000', '50', '', '', '')
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Latihan))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-02-20 08:28:02 --> ErrorException: Undefined variable $jumlahdata
+[Method: GET, Route: databarang3/12/moisturizer/5000/50]
+in APPPATH\Views\latihanview2.php on line 13.
+ 1 APPPATH\Views\latihanview2.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $jumlahdata', 'C:\\xampp1\\htdocs\\ci4\\app\\Views\\latihanview2.php', 13)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp1\\htdocs\\ci4\\app\\Views\\latihanview2.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('latihanview2', [], true)
+ 5 APPPATH\Controllers\Latihan.php(42): view('latihanview2', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Latihan->dataketiga('12', 'moisturizer', '5000', '50', '', '', '')
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Latihan))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
